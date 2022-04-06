@@ -6,5 +6,5 @@
 
 - Website: [epilot.cloud](https://epilot.cloud/)
 
-## Licence
+## License
 This Project is licenced under the **Mozilla Public License 2.0**
