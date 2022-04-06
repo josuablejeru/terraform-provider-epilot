@@ -8,3 +8,6 @@ gen-webhooks: ## Generate Webhooks Client
 
 build: ## Build the binary
 	go build -o provider
+
+download-spec: ## Download the OpenAPI Spec
+	wget https://docs.api.epilot.io/webhooks.yaml -O ./epilot-webhooks-client/openapi.yml
